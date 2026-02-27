@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Fumante"
 var
    QTD, Anos: Inteiro
    Min, HR, Dias, Vida: Real
@@ -19,4 +19,5 @@ inicio
       Vida <- Dias * (365 * Anos)
       
       Escreva ("Voce perdeu ", Vida:5:0, " Dias da sua vida")
+
 fimalgoritmo
