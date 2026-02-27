@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Desconto"
 var
    Preco, Desc, Valor_Final: Real
 inicio
@@ -7,12 +7,13 @@ inicio
       
       Desc <- (Preco * 5) / 100
       
-      Escreval ("O desconto é de ", Desc, "R$")
+      Escreval ("O desconto Ã© de ", Desc, "R$")
       
       Valor_Final <- Preco - Desc
       
       Escreva ("O valor do produto com o desconto de 5% e de ", Valor_Final, "R$")
       
       
+
 
 fimalgoritmo
