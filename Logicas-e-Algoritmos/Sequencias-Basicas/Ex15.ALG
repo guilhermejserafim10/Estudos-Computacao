@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Salario"
 var
    Dias: Inteiro
    Sal: Real
@@ -17,4 +17,5 @@ inicio
       Escreval ("-------------------------------------------------")
       
       Escreva ("O salario do funcionario ", Nome, " e de R$", Sal)
+
 fimalgoritmo
