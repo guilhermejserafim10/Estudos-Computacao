@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "SalarioNovo"
 var
    Sal, Aum, Sal_Novo: Real
 inicio
@@ -12,5 +12,6 @@ inicio
       Sal_Novo <- Sal + Aum
       
       Escreva ("Seu salario novo e de R$", Sal_Novo)
+
 
 fimalgoritmo
