@@ -19,4 +19,5 @@ inicio
       FimEnquanto
       Escreva ("A soma de todos os numeros e de ", Soma)
 
+
 fimalgoritmo
