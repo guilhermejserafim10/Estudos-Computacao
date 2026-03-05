@@ -12,4 +12,5 @@ inicio
 
    Escreval("Acabou!")
 
+
 fimalgoritmo
