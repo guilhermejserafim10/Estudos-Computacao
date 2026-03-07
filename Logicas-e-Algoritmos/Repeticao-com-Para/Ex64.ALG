@@ -6,4 +6,5 @@ inicio
       Escreva (N)
       FimPara
       Escreva (" ACABOU!")
+
 fimalgoritmo
